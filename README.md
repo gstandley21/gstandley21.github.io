@@ -1,1 +1,0 @@
-# gstandley21.github.io
