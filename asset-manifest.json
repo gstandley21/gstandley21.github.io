@@ -1,26 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.55e0fe42.chunk.css",
-    "main.js": "/static/js/main.4b81ec46.chunk.js",
-    "main.js.map": "/static/js/main.4b81ec46.chunk.js.map",
+    "main.css": "/static/css/main.3568dad6.chunk.css",
+    "main.js": "/static/js/main.8dec5f33.chunk.js",
+    "main.js.map": "/static/js/main.8dec5f33.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.39c019fa.js",
     "runtime-main.js.map": "/static/js/runtime-main.39c019fa.js.map",
-    "static/js/2.694a0a17.chunk.js": "/static/js/2.694a0a17.chunk.js",
-    "static/js/2.694a0a17.chunk.js.map": "/static/js/2.694a0a17.chunk.js.map",
+    "static/js/2.9f6c2c38.chunk.js": "/static/js/2.9f6c2c38.chunk.js",
+    "static/js/2.9f6c2c38.chunk.js.map": "/static/js/2.9f6c2c38.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.47c90ceb2ae00ca965348a9c656af352.js": "/precache-manifest.47c90ceb2ae00ca965348a9c656af352.js",
+    "precache-manifest.e369c69279cb3046145e70426a1d658b.js": "/precache-manifest.e369c69279cb3046145e70426a1d658b.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.55e0fe42.chunk.css.map": "/static/css/main.55e0fe42.chunk.css.map",
-    "static/js/2.694a0a17.chunk.js.LICENSE.txt": "/static/js/2.694a0a17.chunk.js.LICENSE.txt",
-    "static/media/courseSourceRec.mov": "/static/media/courseSourceRec.299e803e.mov",
+    "static/css/main.3568dad6.chunk.css.map": "/static/css/main.3568dad6.chunk.css.map",
+    "static/js/2.9f6c2c38.chunk.js.LICENSE.txt": "/static/js/2.9f6c2c38.chunk.js.LICENSE.txt",
+    "static/media/courseSourceSquareRec.mov": "/static/media/courseSourceSquareRec.ac98dd45.mov",
+    "static/media/doodleRec.mov": "/static/media/doodleRec.81599e08.mov",
     "static/media/gemma_photo.PNG": "/static/media/gemma_photo.045703a4.PNG",
     "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
-    "static/media/oSnakeRec.mov": "/static/media/oSnakeRec.385d4e76.mov"
+    "static/media/oSnakeSquareRec.mov": "/static/media/oSnakeSquareRec.4fcf8e56.mov"
   },
   "entrypoints": [
     "static/js/runtime-main.39c019fa.js",
-    "static/js/2.694a0a17.chunk.js",
-    "static/css/main.55e0fe42.chunk.css",
-    "static/js/main.4b81ec46.chunk.js"
+    "static/js/2.9f6c2c38.chunk.js",
+    "static/css/main.3568dad6.chunk.css",
+    "static/js/main.8dec5f33.chunk.js"
   ]
 }
