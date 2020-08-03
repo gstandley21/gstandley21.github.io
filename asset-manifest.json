@@ -1,28 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.90e6e14c.chunk.css",
-    "main.js": "/static/js/main.988b3864.chunk.js",
-    "main.js.map": "/static/js/main.988b3864.chunk.js.map",
+    "main.css": "/static/css/main.2c31e530.chunk.css",
+    "main.js": "/static/js/main.a9282080.chunk.js",
+    "main.js.map": "/static/js/main.a9282080.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.39c019fa.js",
     "runtime-main.js.map": "/static/js/runtime-main.39c019fa.js.map",
-    "static/js/2.76abd327.chunk.js": "/static/js/2.76abd327.chunk.js",
-    "static/js/2.76abd327.chunk.js.map": "/static/js/2.76abd327.chunk.js.map",
+    "static/js/2.d85da407.chunk.js": "/static/js/2.d85da407.chunk.js",
+    "static/js/2.d85da407.chunk.js.map": "/static/js/2.d85da407.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.15eb35139de6dfe7498b468a58d95ec3.js": "/precache-manifest.15eb35139de6dfe7498b468a58d95ec3.js",
+    "precache-manifest.1ba1593724a221f103c726aca12b7a29.js": "/precache-manifest.1ba1593724a221f103c726aca12b7a29.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.90e6e14c.chunk.css.map": "/static/css/main.90e6e14c.chunk.css.map",
-    "static/js/2.76abd327.chunk.js.LICENSE.txt": "/static/js/2.76abd327.chunk.js.LICENSE.txt",
+    "static/css/main.2c31e530.chunk.css.map": "/static/css/main.2c31e530.chunk.css.map",
+    "static/js/2.d85da407.chunk.js.LICENSE.txt": "/static/js/2.d85da407.chunk.js.LICENSE.txt",
     "static/media/courseSourceSquareRecWhite.mov": "/static/media/courseSourceSquareRecWhite.3730446f.mov",
     "static/media/doodleRec.mov": "/static/media/doodleRec.81599e08.mov",
     "static/media/frostySquareRecWhite.mov": "/static/media/frostySquareRecWhite.47f8854e.mov",
     "static/media/gemma_photo.PNG": "/static/media/gemma_photo.045703a4.PNG",
     "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
-    "static/media/oSnakeSquareRecWhite.mov": "/static/media/oSnakeSquareRecWhite.09c2468b.mov"
+    "static/media/oSnakeSquareRecWhite.mov": "/static/media/oSnakeSquareRecWhite.09c2468b.mov",
+    "static/media/starDoodleSquareRec.mov": "/static/media/starDoodleSquareRec.2f128988.mov"
   },
   "entrypoints": [
     "static/js/runtime-main.39c019fa.js",
-    "static/js/2.76abd327.chunk.js",
-    "static/css/main.90e6e14c.chunk.css",
-    "static/js/main.988b3864.chunk.js"
+    "static/js/2.d85da407.chunk.js",
+    "static/css/main.2c31e530.chunk.css",
+    "static/js/main.a9282080.chunk.js"
   ]
 }
